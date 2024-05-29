@@ -1,0 +1,13 @@
+E:\For ADET\WindowsFormsAppAPI\bin\Debug\WindowsFormsAppAPI.exe.config
+E:\For ADET\WindowsFormsAppAPI\bin\Debug\WindowsFormsAppAPI.exe
+E:\For ADET\WindowsFormsAppAPI\bin\Debug\WindowsFormsAppAPI.pdb
+E:\For ADET\WindowsFormsAppAPI\bin\Debug\Newtonsoft.Json.dll
+E:\For ADET\WindowsFormsAppAPI\bin\Debug\Newtonsoft.Json.xml
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.csproj.AssemblyReference.cache
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.Form1.resources
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.Properties.Resources.resources
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.csproj.GenerateResource.cache
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.csproj.CoreCompileInputs.cache
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsF.65991EA7.Up2Date
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.exe
+E:\For ADET\WindowsFormsAppAPI\obj\Debug\WindowsFormsAppAPI.pdb
